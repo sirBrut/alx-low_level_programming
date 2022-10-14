@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc CFILE 101-main
+gcc $CFILE -o 101-main.s
